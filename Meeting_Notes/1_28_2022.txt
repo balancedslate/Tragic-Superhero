@@ -1,0 +1,23 @@
+// Tragic Superhero Project Notes
+01.28.2022 - Initial Meeting 
+
+- Solidified the weekly/biweekly meeting updates
+- Wants to conduct 1 on 1 meetings
+- Established a possible need for website / AWS
+- Assume a minting size of 10,000
+
+- Sprint 0 focuses: Research Phase
+    - Research into the Ethereum and Solana blockchains
+    - Determine a relative cost (Money, Time, Effort)
+    - Research into the Loot NFT and it's surrounding community
+        - Open-Sourced Documentation and used with Ethereum
+    - Start thinking/researching methods to randomize the stories
+    - Break research up into specific tasks for each of us
+    - Buildspace NFT course and others like it
+    - Collaborate and solidfy the language/extensions we're using
+
+- Ethan's Podcasts:
+    - On Deconstructor of Fun - Metaverse Rave episode
+    - famousaspect.com is his cryptocurrency website
+    - Tokenomics is his personal podcast
+
