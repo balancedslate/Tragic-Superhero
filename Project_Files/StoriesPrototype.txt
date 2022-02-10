@@ -1,0 +1,41 @@
+// Story Templates - TSB Project
+// 02/09/2022
+
+// Current Form - {1 superpower source, 1 location, 2 nouns, 5 verbs}
+// 
+//
+// Verbs - { rescued, raised, killed, saved, fought, destroyed, healed, caught, helped, liberated, freed, redeemed
+        emancipated, salvaged, restored, preserved, dismantled, defaced, ravaged, sabotaged 
+}
+// Superpower sources - {
+
+}
+// Nouns - {
+
+}
+// Locations - {
+        
+}
+
+Story #1
+
+After being [verb] from the [location],
+you were exposed to the [Superpower source].
+It took everything you had, but you and [noun] 
+decided to [verb] so that you'd be able to [verb] the people.
+Your [noun] was [verb], so you decided to carry on the legacy to [verb].
+
+Story #2
+
+A hero born in [location] was raised within the confines of the [noun] 
+organization. You were [verb] near the [Superpower source], giving you the
+ability to [verb] a [noun]. You [verb] and carried on, hoping to one day
+[verb] your city. You helped [verb] the organization.
+
+Story #3
+
+You and your species escaped to Earth and crash landed in [location],
+but you were the sole survivor. A [noun] found you and adopted you,
+teaching you how to [verb] and [verb]. Over time, you realized [superpower source]
+allowed you to [verb] a [noun]. When the Earth was threatened
+with global extinction, you [verb] and [verb] to save the day.
