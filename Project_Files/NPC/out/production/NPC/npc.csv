@@ -1,0 +1,72 @@
+Property,Trait,Weight
+Species,Human,1300
+Species,Elf,400
+Species,Dwarf,400
+Species,Gnome,400
+Species,Hobbit,400
+Species,Goblin,400
+Species,Orc,400
+Species,Giant,400
+Species,Undead,400
+Species,Lycan,140
+Species,Ent,140
+Species,Nymph,140
+Species,Dragonkin,20
+Species,Fae,20
+Species,Vampire,20
+Species,Catfolk,20
+Pronoun,He/Him,475
+Pronoun,She/Her,482
+Pronoun,They/Them,43
+Romance,Straight,600
+Romance,Gay,300
+Romance,Bisexual,90
+Romance,Asexual,10
+God,Xyto!chit,650
+God,Sto'chresta,500
+God,Artulachan,450
+God,Jedoh,400
+God,Ya'ast Arisen,300
+God,The Blind One,250
+God,Grendarc,225
+God,Holy Sentcha,175
+God,Ezeriel,150
+God,Saint Oshewa,100
+God,The Unknowable,75
+God,Drosk,25
+Caste,Slave,1500
+Caste,Peasant,3000
+Caste,Artisan,800
+Caste,Merchant,700
+Caste,Clergy,1000
+Caste,Soldier,1500
+Caste,Knight,650
+Caste,Bureaucrat,550
+Caste,Lord,250
+Caste,Monarch,50
+Weapon,Blade,300
+Weapon,Bow,225
+Weapon,Blunt,200
+Weapon,Fist,150
+Weapon,Magic,125
+Weapon,Poison,75
+Weapon,Flame,75
+Weapon,Cunning,50
+Weapon,Influence,50
+Weapon,Holy Relic,50
+Hobby,Drink,425
+Hobby,Dice,400
+Hobby,Cards,375
+Hobby,Brothel,350
+Hobby,Romance,300
+Hobby,Sport,250
+Hobby,Hunt,225
+Hobby,Prayer,200
+Hobby,Duel,175
+Hobby,Song,75
+Hobby,Dance,55
+Hobby,Brush,50
+Hobby,Rhyme,45
+Hobby,Theater,30
+Hobby,Letter,25
+Hobby,Quill,20
