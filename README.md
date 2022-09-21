@@ -1,8 +1,7 @@
 # Tragic Superhero
 
-// This is a project created by CofC students
-// Ian Flynn, Erika Hamilton, Levi Kenley and 
-// Emory Tibbetts. 
+This is a project created by CofC students
+Ian Flynn, Erika Hamilton, Levi Kenley and Emory Tibbetts. 
 
 Link to the Twitter @ https://twitter.com/NPCLoreNFT
 
